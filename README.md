@@ -15,10 +15,15 @@ Using data from Middlesex County, I was able to get a full data analysis of Wood
 ## Summary of Findings
 
 Slope: -94.34786952699963
-Intercept: 87.75856992784142
+
+Intercept: 87.75856992784142\
+
 R -0.5695076888618644
+
 R-squared: 0.3243390076727822
+
 P-value: 1.698979706860268e-11
+
 Standard error: 12.643518102732147
 
 Areas with smaller turnout did vote Democratically on a significant level.
