@@ -8,8 +8,8 @@ Using data from Middlesex County, I was able to get a full data analysis of Wood
 
 ## Examples
 [Democratic Percentage vs Republican Percentage PLOTLY](https://taneesh04.github.io/WoodbridgeVoteAnalysis/)
-![Regression Line Between Voter Turnout And Dem Percentage](https://discord.com/channels/@me/1071996612114661486/1084881070358548613)
-![Boxplot of Ward vs Dem Percentage](https://discord.com/channels/@me/1071996612114661486/1084881628972712047)
+![Regression Line Between Voter Turnout And Dem Percentage](https://cdn.discordapp.com/attachments/1071996612114661486/1084881070048153691/newplot.png)
+![Boxplot of Ward vs Dem Percentage](https://cdn.discordapp.com/attachments/1071996612114661486/1084881628641378406/Woodbridge_Voter_Anal.png)
 
 
 
