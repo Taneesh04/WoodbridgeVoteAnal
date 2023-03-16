@@ -11,12 +11,14 @@ Using data from Middlesex County, I was able to get a full data analysis of Wood
 ![Regression Line Between Voter Turnout And Dem Percentage](https://cdn.discordapp.com/attachments/1071996612114661486/1084881070048153691/newplot.png)
 ![Boxplot of Ward vs Dem Percentage](https://cdn.discordapp.com/attachments/1071996612114661486/1084881628641378406/Woodbridge_Voter_Anal.png)
 ![White vs Dem Percent](https://user-images.githubusercontent.com/110936868/224773869-66bbb08b-af4c-4550-a1ac-8a6a0ab5f9c6.png)
+![Map of Voters](https://user-images.githubusercontent.com/110936868/225510812-1ec1ffda-de1d-43d4-87a7-6d2e16cd6950.png)
 
-## Summary of Findings
+
+## Summary of Findings on Significance test Performed On Comparing Turnout to Dem Voting
 
 Slope: -94.34786952699963
 
-Intercept: 87.75856992784142\
+Intercept: 87.75856992784142
 
 R -0.5695076888618644
 
