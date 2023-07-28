@@ -14,6 +14,11 @@ Using data from Middlesex County, I was able to get a full data analysis of Wood
 ![Map of Voters](https://user-images.githubusercontent.com/110936868/225510812-1ec1ffda-de1d-43d4-87a7-6d2e16cd6950.png)
 
 
+## INTERACTIVE MAP
+Please use this LINK to load the interactive map I have available for this project to see exact values.
+[Interactive Map](https://nbviewer.org/github/Taneesh04/WoodbridgeVoteAnalysis/blob/main/Woodbridge%20Voter%20Data%20Map%20Plotly.ipynb)
+
+
 ## Summary of Findings on Significance test Performed On Comparing Turnout to Dem Voting
 
 Slope: -94.34786952699963
